@@ -1,0 +1,33 @@
+# Datasets — too big for Git, downloaded locally
+data/
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training artefacts (uncomment if you don't want to commit run logs)
+# runs/
+# logs/
+
+# Note: models/ IS committed — model weights are part of the deliverable
