@@ -6,6 +6,12 @@ This repository contains the code, training notebooks, and live demo for a
 comparative study of three commonly used fatigue detection modalities: **eye behaviour**,
 **facial expression**, and **steering behaviour**.
 
+**How to view Notebooks**
+
+Access the **notebook** folder and access **01_eye_training.ipynb**, **02_face_traininng.ipynb**,
+02b_face_training_no_eye_abilitation** and **03_steering_training_ipynb**.
+
+
 ## Project structure
 
 ```
