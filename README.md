@@ -9,7 +9,7 @@ comparative study of three commonly used fatigue detection modalities: **eye beh
 **How to view Notebooks**
 
 Access the **notebook** folder and access **01_eye_training.ipynb**, **02_face_traininng.ipynb**,
-02b_face_training_no_eye_ablation.ipynb** and **03_steering_training.ipynb**.
+**02b_face_training_no_eye_ablation.ipynb** and **03_steering_training.ipynb**.
 
 
 ## Project structure
