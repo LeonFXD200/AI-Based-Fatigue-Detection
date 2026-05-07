@@ -1,4 +1,4 @@
-# Driver Fatigue Detection — Signal Modality Comparison
+# Driver Fatigue Detection - Signal Modality Comparison
 
 **Evaluating Signal-Based Approaches for AI Driver Fatigue Detection.**
 
