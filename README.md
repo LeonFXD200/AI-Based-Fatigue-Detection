@@ -6,6 +6,14 @@ This repository contains the code, training notebooks, and live demo for a
 comparative study of three commonly used fatigue detection modalities: **eye behaviour**,
 **facial expression**, and **steering behaviour**.
 
+## Live Demo
+
+An interactive demo is available on Hugging Face Spaces:
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LeonFXD/AI_Based_Fatigue_Detection)
+
+Upload a photo or short video clip to run the Eye CNN or Face MLP model directly in your browser — no installation required.
+
 **How to view Notebooks**
 
 Access the **notebook** folder and access **01_eye_training.ipynb**, **02_face_traininng.ipynb**,
